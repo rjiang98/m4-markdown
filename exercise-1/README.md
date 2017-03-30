@@ -8,4 +8,4 @@ See `complete` branch for an example.
 
 > The only thing we have to fear is fear itself
 
-http://historymatters.gmu.edu/d/5057/
+[More Information](http://historymatters.gmu.edu/d/5057/)
