@@ -6,6 +6,8 @@ In the space below, make a three column table of the current courses you are tak
 
 See `complete` branch for answers.
 
-- **Info201** _Technical Foundations of Informatics_, taught by Mike Freeman
-- **Ling200** _Introduction to Linguistics_, taught by Laura McGarrity
-- **Math126** _Calculus with Analytical Geometry III_, taught by Andrew Loveless
+Course Number | Course Title | Instructor
+---|---|---
+**Info201**| _Technical Foundations of Informatics_| Mike Freeman
+**Ling200**| _Introduction to Linguistics_| Laura McGarrity
+**Math126**| _Calculus with Analytical Geometry III_| Andrew Loveless
